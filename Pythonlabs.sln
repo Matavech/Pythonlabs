@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pythonlabs", "Pythonlabs.pyproj", "{4825739F-44D1-4DE2-A071-792CC803ACAD}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab1", "..\lab1\lab1.pyproj", "{6C38C054-1E4B-47EA-88EA-55C88492C6AC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "lab2", "..\lab2\lab2.pyproj", "{8D85A2AE-AC2F-48FE-A326-34C8BC145689}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,8 +13,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4825739F-44D1-4DE2-A071-792CC803ACAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4825739F-44D1-4DE2-A071-792CC803ACAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C38C054-1E4B-47EA-88EA-55C88492C6AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C38C054-1E4B-47EA-88EA-55C88492C6AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D85A2AE-AC2F-48FE-A326-34C8BC145689}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D85A2AE-AC2F-48FE-A326-34C8BC145689}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
